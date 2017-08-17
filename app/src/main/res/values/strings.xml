@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Nasa Images</string>
+    <string name="large_text">
+        "Information About Image.\n\n"
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="error_img">Image no Found</string>
+</resources>
